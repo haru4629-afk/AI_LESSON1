@@ -1,4 +1,5 @@
 streamlit
-tflite-runtime
-pillow
 numpy
+pillow
+aiy-python-webcam
+tensorflow-cpu
