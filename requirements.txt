@@ -1,5 +1,5 @@
-streamlit
-numpy
+streamlit>=1.30.0
+numpy<2.0.0
 pillow
 aiy-python-webcam
-tensorflow-cpu
+tensorflow-cpu>=2.10.0
